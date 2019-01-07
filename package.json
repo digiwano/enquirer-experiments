@@ -1,0 +1,28 @@
+{
+  "name": "@digiwano/enquirer-experiments",
+  "version": "0.0.2",
+  "description": "temporary home for enquirer fanciness to be published \"for reals\" later, after vetting",
+  "main": "index.js",
+  "files": ["index.js"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^1.0.1",
+    "enquirer": "^2.3.0",
+    "eslint": "^5.10.0",
+    "eslint-plugin-prettier": "^3.0.0",
+    "eslint-plugin-promise": "^4.0.1",
+    "eslint-plugin-unicorn": "^6.0.1",
+    "nyc": "^13.1.0",
+    "prettier": "^1.15.3"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "cli-table-redemption": "^1.0.1",
+    "deeps": "^1.4.5",
+    "syms": "^1.0.3"
+  }
+}
